@@ -1,0 +1,15 @@
+[submodule "config-server"]
+    path = config-server
+    url = https://github.com/Jinkalu/config-server.git
+[submodule "discovery-server"]
+    path = discovery-server
+    url = https://github.com/Jinkalu/discovery-server.git
+[submodule "api-gateway"]
+    path = api-gateway
+    url = https://github.com/Jinkalu/api-gateway.git
+[submodule "service-a"]
+    path = service-a
+    url = https://github.com/Jinkalu/service-a.git
+[submodule "service-b"]
+    path = service-b
+    url = https://github.com/Jinkalu/service-b.git
